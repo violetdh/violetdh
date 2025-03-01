@@ -10,21 +10,17 @@ Brighton University
 2021 - 2024  
 
 ## My skills 
-- Java
-- JavaScript
-- Python
-- C#
-- MySQL
-- HTML, CSS, SCSS
-- PHP
-- Bash
-- Docker
-- Power BI
-- Godot Engine
-- Unity Engine
-
-## What I'm currently learning:
-- Rust
-- C
-- Traditional/digital art
-- Kubernetes/k3s
+| Skills | Currently Learning |
+|--------|--------------------|
+| Java   |Rust                |
+|JavaScript|C                 |
+|Python|Traditional/Digital Art|
+|C#|Kubernetes/K3s            |
+|MySQL|                       |
+|HTML, CSS, SCSS|             |
+|PHP||
+|Bash||
+|Docker||
+|Power BI||
+|Godot Engine||
+|Unity Engine||
