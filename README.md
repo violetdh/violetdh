@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Violet 👋
 
-<!--
-**violetdh/violetdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22 year old developer and artist from England who is passionate about software, open source, self-hosting and game development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+**Bachelor of Computer Science (Honours)**  
+Brighton University  
+2021 - 2024  
+
+## My skills 
+- Java
+- JavaScript
+- Python
+- C#
+- MySQL
+- HTML, CSS, SCSS
+- PHP
+- Bash
+- Docker
+- Power BI
+- Godot Engine
+- Unity Engine
+
+## What I'm currently learning:
+- Rust
+- C
+- Traditional/digital art
+- Kubernetes/k3s
